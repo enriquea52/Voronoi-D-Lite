@@ -25,8 +25,7 @@ The code implementation has a CLI to execute it as follows.
 ### Voronoi Diagram Building process
 
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1WHlLC75yehHrxkqVU7vOFIbO2HUDpRuS
-" width="350" height="300"  />
+<img src="Demos/voronoi_animation.gif" width="350" height="300"  />
 </p>
 
 
@@ -35,8 +34,8 @@ The code implementation has a CLI to execute it as follows.
 (Execution without hidden obstacles-> left. Execution with hidden obstacles-> right)
 
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1ZghvBeM6a0l5uKenp2Sy4kc5SRmPBgew" width="350" height="300"  />
-<img src="https://drive.google.com/uc?export=view&id=1vM3KdiXsyH4T4_dFcC_jY-x2iL0vNUY1" width="350" height="300" />
+<img src="Demos/demo4.gif" width="350" height="300"  />
+<img src="Demos/demo3.gif" width="350" height="300" />
 </p>
 
 
@@ -49,8 +48,8 @@ The code implementation has a CLI to execute it as follows.
 (Execution without hidden obstacles-> left. Execution with hidden obstacles-> right)
 
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1mgpoXff55zdBLQ1eWNQPlWDxyMz6BHex" width="350" height="300"  />
-<img src="https://drive.google.com/uc?export=view&id=16na1VCVyM-i6BvPy9Olc9Sv3KAGzAoOX" width="350" height="300" />
+<img src="Demos/demo2.gif" width="350" height="300"  />
+<img src="Demos/demo.gif" width="350" height="300" />
 </p>
 
 
@@ -59,8 +58,8 @@ The code implementation has a CLI to execute it as follows.
 (Execution without hidden obstacles-> left. Execution with hidden obstacles-> right)
 
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1V2fyZfAk98z03vezm_IxDzbtygxiLBdJ" width="350" height="300"  />
-<img src="https://drive.google.com/uc?export=view&id=1QcJ8gPWw-6MmxNfuss6-3My6BYF4Zb6q" width="350" height="300" />
+<img src="Demos/demo6.gif" width="350" height="300"  />
+<img src="Demos/demo5.gif" width="350" height="300" />
 </p>
 
 
